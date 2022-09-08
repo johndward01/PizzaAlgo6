@@ -1,5 +1,5 @@
 Step 1: Order the pizza
 Step 2: Wait for the driver
-    - Step 2a: Make sure order is correct 
+    - Step 2a: Make sure order is right
 Step 3: Pay 
 Step 4: Eat the pizza
